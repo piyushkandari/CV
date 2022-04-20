@@ -1,0 +1,21 @@
+img{
+        width: 130px;
+        height: 130px;
+        border-radius: 100%;
+        background-color: blue;
+}
+.edu{
+    border-style: dotted;
+    border-collapse: collapse;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 8px;
+    width: 8%;
+}
+
+h1,h3{
+    color: blue
+}
